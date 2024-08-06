@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👯 I’m looking to collaborate on **MaishaEduc (DRC)**
+- 👯 I’m looking to collaborate on **MaishaEduc**
 
 - 💬 Ask me about **Laravel, Next js, React and ReactNative**
 
